@@ -22,6 +22,7 @@ io.swagger.codegen.languages.FinchServerCodegen
 io.swagger.codegen.languages.FlashClientCodegen
 io.swagger.codegen.languages.FlaskConnexionCodegen
 io.swagger.codegen.languages.GoClientCodegen
+io.swagger.codegen.languages.GoLambdaCodegen
 io.swagger.codegen.languages.GoServerCodegen
 io.swagger.codegen.languages.GroovyClientCodegen
 io.swagger.codegen.languages.HaskellHttpClientCodegen
